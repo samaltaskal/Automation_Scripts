@@ -18,19 +18,19 @@ The report will be in excel sheet along with inbuilt Pivot Table.
 
 # Below are the information that the script is retriveing from Azure Recovery Services vault.
 
-Subscription
-ResouceGroup
-Vault
-JobID
-ServerName
-JobType
-Status
-Task
-BackupSize
-StartTime
-Duration
-ErrorDetails
-Recommendations
+1. Subscription
+2. ResouceGroup
+3. Vault
+4. JobID
+5. ServerName
+6. JobType
+7. Status
+8. Task
+9. BackupSize
+10. StartTime
+11. Duration
+12. ErrorDetails
+13. Recommendations
 
 # Prerequisites :   
 
